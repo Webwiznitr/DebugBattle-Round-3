@@ -5,4 +5,4 @@ You work with organization XYZ in Frontend Development Team. You are on holiday 
 For the web app, you are developing you need to fetch the data from an API and display it. So, your manager asked you to develop a simple web app with a fetch data button to fetch the data from the API and display it in a sorted manner with respect to name. 
 
 
-Link for the API - [https://postman-library-api.glitch.me/books]
+Link for the API - [https://randomuser.me/api/?results=20]
